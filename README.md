@@ -1,0 +1,5 @@
+- 👋 Hi, I’m: @hza138
+- 👀 I’m interested in: becoming a full stack dev
+- 🌱 I’m currently learning: python, c#, js, web dev, django, and react
+- 📫 How to reach me: through here, discord, or eventually email
+- I eat spicy food and look good in black
